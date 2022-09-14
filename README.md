@@ -12,6 +12,6 @@ Knowledge of English is finished :)
 2. https://mariela.learn-web.ru
 
 ## My contacts:
-<a href="https://t.me/Aleksevr" target="_blank" data-scroll>
+<a href="https://t.me/Aleksevr" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-C0C0C0?style=for-the-badge&logo=Telegram&logoColor=26A5E4">
 </a>
