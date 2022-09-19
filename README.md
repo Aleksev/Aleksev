@@ -6,7 +6,7 @@ Hello, my name is Alexey... Knowledge of English is finished :)
 
 ## My projects:
 1. https://glopt.learn-web.ru
-2. https://mariela.learn-web.ru [в разработке...]
+2. https://mariela.learn-web.ru [ в разработке... ]
 
 ## My contacts:
 <a href="https://t.me/Aleksevr" target="_blank">
