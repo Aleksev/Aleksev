@@ -1,5 +1,5 @@
 ## About me:
-Hello, my name is Alexey... Knowledge of English is finished :)
+Hello, my name is Alexey...
 
 ## My skills:
 <img src="https://img.shields.io/badge/HTML-C0C0C0?style=for-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-C0C0C0?style=for-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Sass-C0C0C0?style=for-the-badge&logo=Sass&logoColor=CC6699"> <img src="https://img.shields.io/badge/Git-C0C0C0?style=for-the-badge&logo=Git&logoColor=F05032"> <img src="https://img.shields.io/badge/Gulp-C0C0C0?style=for-the-badge&logo=Gulp&logoColor=CF4647">
